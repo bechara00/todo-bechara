@@ -146,3 +146,11 @@ onMounted(listenForTodos);
         </table>
     </div>
 </template>
+<style scoped>
+h1 {
+    font-size: 3rem;
+    color: chocolate;
+    font-weight: 800;
+    text-align: center;
+}
+</style>
